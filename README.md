@@ -13,4 +13,4 @@ TMVAClassification.C - This file trains the BDT.
 
 TMVAClassificationApplication*.C - These files test the BDT on each of the samples.
 
-Plotting_Quantities_As_Function_Of_Cut_Muon_Candidate_Only.C - This file properly normalizes & visualizes the output for the testing samples as a function of BDT score cut.
+Plotting_Quantities_As_Function_Of_Cut_Muon_Candidate_Only.C - This file normalizes & visualizes the output for the testing samples as a function of BDT score cut.
