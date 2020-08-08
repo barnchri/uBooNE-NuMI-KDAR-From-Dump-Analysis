@@ -9,8 +9,8 @@ Updates_To_Proton_Fitting_Technique_With_All_MCWeights.C - This file passes alon
 
 Generating_Signal_And_Background_Trees*.C - These files prepare the trees for the BDT for each of the samples.
 
-TMVAClassification.C - This file train the BDT.
+TMVAClassification.C - This file trains the BDT.
 
-TMVAClassificationApplication*.C - These files tests the BDT on each of the samples.
+TMVAClassificationApplication*.C - These files test the BDT on each of the samples.
 
 Plotting_Quantities_As_Function_Of_Cut_Muon_Candidate_Only.C - This file properly normalizes & visualizes the output for the testing samples as a function of BDT score cut.
