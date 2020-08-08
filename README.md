@@ -14,3 +14,5 @@ TMVAClassification.C - This file trains the BDT.
 TMVAClassificationApplication*.C - These files test the BDT on each of the samples, providing a score in the range [-1.0, 1.0] based on how confident the BDT is that the given event is a KDAR-from-the-dump muon neutrino event.
 
 Plotting_Quantities_As_Function_Of_Cut_Muon_Candidate_Only.C - This file normalizes & visualizes the output for the testing samples as a function of BDT score cut.
+
+counting_weighted_number_of_events.py - This script uses the weights in the tree to count the weighted number of events passing the pre-selection.
