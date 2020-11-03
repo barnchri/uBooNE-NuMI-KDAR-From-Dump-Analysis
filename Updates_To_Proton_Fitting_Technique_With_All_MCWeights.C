@@ -1,5 +1,3 @@
-//Fitting a TGraph2D
-//Author: Olivier Couet
 #include <TMath.h>
 #include <TGraph2D.h>
 #include <TRandom2.h>
