@@ -7,7 +7,7 @@ UBXSec_module.cc - This file performs the pre-selection, removing events with bi
 
 Updates_To_Proton_Fitting_Technique_With_All_MCWeights.C - This file passes along quantities needed for the BDT & performs proton length & direction reconstruction.
 
-Generating_Signal_And_Background_Trees*.C - These files prepare the ROOT TTrees for the BDT for each of the samples.
+Generating_Signal_And_Background_Trees.C - These files prepare the ROOT TTrees for the BDT for each of the samples.
 
 TMVAClassification.C - This file trains the BDT.
 
