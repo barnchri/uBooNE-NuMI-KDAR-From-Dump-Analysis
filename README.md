@@ -1,4 +1,4 @@
-# uBoone-NuMI-KDAR-From-Dump-Analysis
+# uBooNE-NuMI-KDAR-From-Dump-Analysis
 This is the analysis code used for my original Ph.D. thesis measurement, the differential cross section of Kaon-Decay-At-Rest Muon Neutrinos from the NuMI Beam Dump with MicroBooNE.
 
 This analysis involves a pre-selection, reconstruction after preselection, a BDT, and data visualization with data normalization.  Each of the files serves the following purpose(s):
